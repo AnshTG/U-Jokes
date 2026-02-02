@@ -1,0 +1,7 @@
+{
+  "name": "U Jokes",
+  "description": "An unstoppable laughter engine delivering high-quality AI-generated jokes with hilarious voiceovers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
